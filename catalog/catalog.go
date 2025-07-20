@@ -48,6 +48,7 @@ const (
 	Glue     Type = "glue"
 	DynamoDB Type = "dynamodb"
 	SQL      Type = "sql"
+	File     Type = "file"
 )
 
 var (
